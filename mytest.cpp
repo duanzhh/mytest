@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("------------------\nn-");
+	printf("-------------------\n");
 	return 0;
 }
